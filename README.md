@@ -7,11 +7,6 @@ Com essa automação, vamos usar uma base de dados de clientes em um arquivo exc
 Nessa automação foi usado o navegador Google Chrome, será usado um executável de acordo com o navegador.
 
 
-:film_projector:
-
-<img src=".\Animação03.gif" alt="Código funcionando" width="600px" heidth="400px">
-
-
 
 É necessário fazer o download do executável no site **[ChromeDriver](https://chromedriver.chromium.org/home)**, deve ser usado a mesma versão do google chrome que estiver usando.
 
@@ -29,7 +24,7 @@ Clique em **the Chrome for Testing availability dashboard**, clique em **Stable*
 
 Escolha o caminha do Download para a pasta onde está o executável Python, se estiver usando o Anacondo, deve ser dentro da pasta Anaconda, Scripts. Se estiver usando um ambiente virtual, o arquivo deve ser extraído dentro da pasta **venv**, **Scripts** e extrair sem criar uma pasta ex: Downloads\python\projeto\venv\Scripts. Com isso facilita na hora de usar o WebDriver para não ter que ficar especificando o caminho da pasta em que ele está.
 
-### Entendendo como funciona o Selenium:
+### :gear: Entendendo como funciona o Selenium:
 
 Com o método **webdrive.Chrome()** abrimos o browser e já verificamos se o WebDriver está funcionando corretamente. Atribuímos o método a uma variável  
 
@@ -109,7 +104,7 @@ dataframe.head()
 
 
 
-## Arquivo Requirements:
+## :bookmark_tabs: Arquivo Requirements:
 
 É um arquivo de texto formato **.txt** neste arquivo está especificado todos os pacotes e bibliotecas que são utilizados no projeto, isso ajuda para que garanta que se o projeto for usado por outro desenvolvedor não aconteça erros ou problemas por causa da alguma atualização na versão do pacote ou uma descontinuidade na linguagem Python.
 
@@ -120,6 +115,13 @@ pip install -r requirements.txt
 ````
 
 
+:video_camera:
+
+
+<img src=".\Animação04.gif" alt="Código funcionando" width="600px" heidth="400px">
+
+
+
 ## 📁 Como utilizar o código:
 
 O arquivo **script.py** pode ser usado em um terminal:
@@ -127,6 +129,12 @@ O arquivo **script.py** pode ser usado em um terminal:
 ````python
 python script.py
 ````
+
+:film_projector:
+
+<img src=".\Animação03.gif" alt="Código funcionando" width="600px" heidth="400px">
+
+
 
 ## :computer: Técnicas e Tecnologias utilizadas:
 
