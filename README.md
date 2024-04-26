@@ -140,9 +140,7 @@ python script.py
 
 - Automatizar o controle do teclado e mouse
 
-- Laço de repetição
-  
-- Estrutura condicional **if** - **elif**
+- Laço de repetição **for**
 
 
 	- **Python**
