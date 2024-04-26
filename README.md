@@ -165,7 +165,7 @@ python script.py
 - **selenium**
   - pip install selenium
 
-## :electric_plug: como usar as bibliotecas e seus modos:
+## :electric_plug: Como usar as bibliotecas e seus módulos:
 
 - from selenium
 - import webdriver
